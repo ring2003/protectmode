@@ -1,0 +1,5 @@
+floppya:1_44="a.img",status=inserted
+megs:32
+cpu:count=1
+ata0-master: type=disk, path="c.img", mode=flat, cylinders=20, heads=16, spt=63
+boot:a
